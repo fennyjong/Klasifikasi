@@ -1,2 +1,2 @@
 # Klasifikasi
-Tugas UAS Machine Learning: PERBANDINGAN KINERJA K-NEAREST  NEIGHBORS DAN CONVOLUTIONAL NEURAL  NETWORK DALAM KLASIFIKASI CITRA  KONDISI PERMUKAAN JALAN
+Tugas UAS Machine Learning: Perbandingan Kinerja K-Nearest Neighbors dan Convolutional Neural Network dalam Klasifikasi Citra Kondisi Permukaan Jalan
