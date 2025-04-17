@@ -33,11 +33,11 @@ Eksperimen menunjukkan perbandingan kinerja kedua algoritma:
 | Model | Akurasi | Kelebihan | Kekurangan |
 |-------|---------|-----------|------------|
 | CNN   | 93,8%   | Ekstraksi fitur otomatis, akurasi tinggi | Waktu pelatihan lama |
-| KNN   | 57,8%   | Sederhana, pelatihan cepat | Kurang efektif untuk pola kompleks |
+| KNN   | 57,2%   | Sederhana, pelatihan cepat | Kurang efektif untuk pola kompleks |
 
 ## 📑 Kesimpulan
   Eksperimen ini menunjukkan bahwa Convolutional Neural Network (CNN) memiliki 
-akurasi sebesar 93,8%, sedangkan K-Nearest Neighbors (KNN) memiliki akurasi 57,8%. CNN 
+akurasi sebesar 93,8%, sedangkan K-Nearest Neighbors (KNN) memiliki akurasi 57,2%. CNN 
 menunjukkan prediksi yang lebih akurat pada semua kelas terutama pada kondisi retak dengan 
 lebih sedikit kesalahan klasifikasi dibandingkan KNN. Prediksi CNN konsisten mengenali pola 
 visual kompleks, sementara KNN cenderung menghasilkan kesalahan lebih tinggi terutama pada 
